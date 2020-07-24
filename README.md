@@ -1,2 +1,2 @@
 # coronaMap
-Corona data shown in world map using mapbox.
+Corona data are shown in the world map using Mapbox.
